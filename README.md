@@ -1,8 +1,6 @@
 - 👋 Greetings, I’m @jFinton
-- 👀 I’m interested in Full-Stack Development, as well as Computer Science in general.
-- 🌱 I’m currently learning JS, HTML, CSS, SQL, Py
-- 💞️ I’m looking to collaborate on ...
-- 📫 You may reach me at ...
+- 👀 I’m interested in Full-Stack Development, Game Development, as well as Computer Science in general.
+- 🌱 I’m currently learning Py, C# From Unity, and GDScript from Godot4.
 
 <!---
 jFinton/jFinton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
