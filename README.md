@@ -1,5 +1,5 @@
 - 👋 Greetings, I’m @jFinton
-- 👀 I’m interested in Full-Stack Development, Game Development, as well as Computer Science in general.
+- 👀 I’m interested in Back-End Development, Game Development, as well as Computer Science in general.
 - 🌱 I’m currently learning Py, C# From Unity, and GDScript from Godot4.
 
 <!---
